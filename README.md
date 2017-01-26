@@ -1,5 +1,4 @@
 # hello-world
-Let's do This!
 
 Hi everyone!
 
